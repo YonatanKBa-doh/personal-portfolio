@@ -1,0 +1,204 @@
+.top-navright {
+  float: right;
+}
+
+.hero-box {
+	display: flex;
+	border: 0.12rem solid black;
+	min-height:rem;
+	
+}
+
+
+.project-column {
+	
+	border: .1solid black;
+	max-width:22.9rem;
+	
+	
+
+}
+
+.proj1 {
+	
+	border:0.12rem solid black;
+	
+
+	
+	
+	
+}
+.proj2 {
+	
+	border:0.12rem solid black;
+}
+.proj3 {
+	border:0.12rem solid black;
+}
+.proj4 {
+	border:0.12rem solid black;
+	
+}
+.proj5 {
+	border:0.12rem solid black;
+
+}
+
+.work-exp {
+	
+	border:0.12rem solid black;
+
+	max-width:38rem;
+	
+	margin:auto;
+	margin-top:-20.0rem;
+	padding-bottom:2.5rem;
+	
+
+	
+}
+
+
+
+
+
+.edu {
+	
+	
+	border:0.12rem solid black;
+	max-width:22.7rem;
+
+	float:right;
+	margin-top:-20rem;
+	padding-bottom:4.5rem
+	
+	
+	
+	
+}
+
+.flex-box {
+
+	
+	font-size: 2rem;
+	
+	
+}
+
+
+
+.review-column {
+	display:flex;
+	flex-direction:row;
+	
+	border:0.12rem solid black;
+		overflow:hidden;
+	margin-top:0rem;
+	padding:2rem;
+	padding-bottom:18rem;
+
+
+}
+
+.rev-head {
+	color:red;
+	/*reviews heading*/
+}
+
+#contentq {
+	
+	
+	display:flex;
+	
+	gap:1.4rem;
+justify-content:space-evenly;
+padding:16px;
+
+
+	
+	
+	
+	
+}
+
+.quote1{
+	display:flex;
+	flex:1;
+	border:.12rem solid black;
+	background-color:#89CFF0;
+	border-radius:25px;
+	padding:16px;
+
+	
+
+	
+
+	/* not flexing in review column */
+	
+	
+}
+
+.quote2 {
+	flex:1;
+	flex-shrink:1;
+	border:.12rem solid black;
+	background-color: #3DB5FF;
+		border-radius:25px;
+		padding:16px;
+
+		
+
+
+	
+	
+}
+
+.quote3 {
+	display:flex;
+	flex:1;
+	flex-shrink:1;
+	border:.12rem solid black;
+	background-color:#93e7fb;
+		border-radius:25px;
+		padding:16px;
+
+
+
+	
+	
+	
+}
+
+
+nav {
+padding:1.2rem}
+
+h1 {
+	font-size: 2.4rem;
+	
+	padding: 2.4rem;
+	padding-bottom:8rem;
+	display:flex;
+	overflow-wrap: break-word;
+	
+	
+}
+
+
+
+body {
+	
+	overflow-wrap: break-word;
+	padding:2rem;
+		
+}
+
+
+
+
+#foot {
+	color: red;
+	display:flex;
+	
+}
+/* footer not a column */
